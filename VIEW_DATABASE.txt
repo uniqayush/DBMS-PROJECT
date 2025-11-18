@@ -1,0 +1,40 @@
+========================================
+  HOW TO VIEW THE DATABASE
+========================================
+
+DATABASE LOCATION:
+  server/lexilearn.db
+
+CONTAINS:
+  1000+ vocabulary words with definitions
+
+HOW TO VIEW:
+  
+  Option 1 (Easiest):
+  1. Download DB Browser for SQLite
+     https://sqlitebrowser.org/
+  2. Open the program
+  3. Click "Open Database"
+  4. Select: server/lexilearn.db
+  5. Click "Browse Data" tab
+  6. See all 1000+ words!
+
+  Option 2 (Online - No Install):
+  1. Go to: https://inloop.github.io/sqlite-viewer/
+  2. Upload: server/lexilearn.db
+  3. View in browser
+
+  Option 3 (VS Code):
+  1. Install "SQLite Viewer" extension
+  2. Click on lexilearn.db file
+  3. View data in VS Code
+
+========================================
+
+The database is ALREADY CREATED and ready!
+No setup needed - just open and view!
+
+For detailed instructions, see:
+  FOR_TEACHERS.md
+
+========================================
